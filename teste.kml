@@ -6,6 +6,10 @@
             <color>ff0000ff</color>
             <width>4</width>
         </LineStyle>
+	     <PolyStyle>
+            <color>ff0000ff</color>
+            <colorMode>normal</colorMode>
+        </PolyStyle>
     </Style>
     <Style id="redLine">
         <LineStyle>
