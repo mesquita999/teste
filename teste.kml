@@ -7,7 +7,7 @@
             <width>4</width>
         </LineStyle>
         <PolyStyle>
-            <color>ff0000ff</color>
+            <bgColor>ff0000ff</bgColor>
 			<colorMode>random</colorMode>
 			<fill>1</fill>
 		</PolyStyle>
@@ -18,7 +18,7 @@
             <width>4</width>
         </LineStyle>
         <PolyStyle>
-            <color>ff0000ff</color>
+            <geomColor>ff0000ff</geomColor>
             <colorMode>normal</colorMode>
         </PolyStyle>
     </Style>
