@@ -6,16 +6,21 @@
             <color>ff0000ff</color>
             <width>4</width>
         </LineStyle>
-	     <PolyStyle>
+        <PolyStyle>
             <color>ff0000ff</color>
-            <colorMode>normal</colorMode>
-        </PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>1</fill>
+		</PolyStyle>
     </Style>
     <Style id="redLine">
         <LineStyle>
             <color>ff0000ff</color>
             <width>4</width>
         </LineStyle>
+        <PolyStyle>
+            <color>ff0000ff</color>
+            <colorMode>normal</colorMode>
+        </PolyStyle>
     </Style>
   <Placemark>
     <name>Alta Floresta Oesteaaaaaaa</name>
